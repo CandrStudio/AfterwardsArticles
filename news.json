@@ -1,35 +1,19 @@
 {
-  "newsFolders": [
+  "news": [
     {
-      "id": "unique-identifier-1",
-      "name": "Health",
-      "news": [
-        {
-          "id": "unique-news-id-1",
-          "headline": "New Advances in Health Technology",
-          "subHeadline": "Innovations shaping the future",
-          "author": "Jane Doe",
-          "content": "The world of health technology has seen...",
-          "cite": "Source or Reference"
-        },
-        {
-          "id": "unique-news-id-2",
-          "headline": "Understanding Mental Health",
-          "subHeadline": "A deep dive into psychological well-being",
-          "author": "John Smith",
-          "content": "Mental health is an integral part of our lives...",
-          "cite": "Source or Reference"
-        }
-        // ... more news items
-      ]
+      "id": "unique-news-id-1",
+      "headline": "Headline 1",
+      "subHeadline": "Subheadline 1",
+      "content": "Content 1...",
+      "author": "Author 1"
     },
     {
-      "id": "unique-identifier-2",
-      "name": "Technology",
-      "news": [
-        // ... news items for technology
-      ]
+      "id": "unique-news-id-2",
+      "headline": "Headline 2",
+      "subHeadline": "Subheadline 2",
+      "content": "Content 2...",
+      "author": "Author 2"
     }
-    // ... more news folders
   ]
 }
+
