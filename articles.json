@@ -5,10 +5,24 @@
       "name": "Banking",
       "articles": [
         {
-          "id": "tax-article-01",
+          "id": "banking-article-01",
           "headline": "Easy Online Banking",
           "subHeadline": "It's has never been so easy",
           "content": "Whether you are using Afterwards for personal use, freelancer or managing a small business. Banking is important part of everyones life",
+          "author": "Afterwards",
+          "written": "January 15th, 2024"
+        },
+      ]
+    },
+    {
+      "id": "Business",
+      "name": "Business",
+      "articles": [
+        {
+          "id": "business-article-01",
+          "headline": "Get Your Employer Identification Number (EIN)",
+          "subHeadline": "It's easy and free!",
+          "content": "First what is a Employer Idetification Number also known as a EIN? Think of it as a Social Security Number (SSN) for business. This helps the IRS keep track of companys earnings and payments to employees.\n\nNow you are wondering do I actually need this? If you are the only one working in your business, no you don't need one but some bank require you get one.",
           "author": "Afterwards",
           "written": "January 15th, 2024"
         },
