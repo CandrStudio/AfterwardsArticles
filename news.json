@@ -1,19 +1,18 @@
 {
-  "news": [
-    {
-      "id": "unique-news-id-1",
-      "headline": "Headline 1",
-      "subHeadline": "Subheadline 1",
-      "content": "Content 1...",
-      "author": "Author 1"
-    },
-    {
-      "id": "unique-news-id-2",
-      "headline": "Headline 2",
-      "subHeadline": "Subheadline 2",
-      "content": "Content 2...",
-      "author": "Author 2"
-    }
-  ]
+    "news": [
+        {
+            "id": "unique-news-id-1",
+            "headline": "Headline 1",
+            "subHeadline": "Subheadline 1",
+            "content": "Content 1...",
+            "author": "Author 1"
+        },
+        {
+            "id": "unique-news-id-2",
+            "headline": "Headline 2",
+            "subHeadline": "Subheadline 2",
+            "content": "Content 2...",
+            "author": "Author 2"
+        }
+    ]
 }
-
