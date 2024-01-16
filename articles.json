@@ -1,12 +1,32 @@
 {
-    "articles": [
+  "folders": [
+    {
+      "id": "Banking",
+      "name": "Banking",
+      "articles": [
         {
-            "id": "article-00001",
-            "headline": "Article",
-            "subHeadline": "It's new and fresh.",
-            "content": "It's official! Afterwards has launched on iOS in the App Store to download. Which of course you did because you are reading this.",
-            "author": "Afterwards",
-            "written": "January 15th, 2024"
-        }
-    ]
+          "id": "tax-article-01",
+          "headline": "Easy Online Banking",
+          "subHeadline": "It's has never been so easy",
+          "content": "Whether you are using Afterwards for personal use, freelancer or managing a small business. Banking is important part of everyones life",
+          "author": "Afterwards",
+          "written": "January 15th, 2024"
+        },
+      ]
+    },
+    {
+      "id": "Tax",
+      "name": "Tax",
+      "articles": [
+        {
+          "id": "tax-article-01",
+          "headline": "Article Headline 1",
+          "subHeadline": "Subheadline 1",
+          "content": "Content of Article 1...",
+          "author": "Afterwards",
+          "written": "January 15th, 2024"
+        },
+      ]
+    },
+  ]
 }
