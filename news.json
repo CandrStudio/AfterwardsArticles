@@ -1,18 +1,20 @@
 {
     "news": [
         {
-            "id": "unique-news-id-1",
+            "id": "news-00002",
             "headline": "Headline 1",
             "subHeadline": "Subheadline 1",
             "content": "Content 1...",
-            "author": "Author 1"
+            "author": "Author 1",
+            "written": "January 15th, 2024"
         },
         {
-            "id": "unique-news-id-2",
-            "headline": "Headline 2",
-            "subHeadline": "Subheadline 2",
-            "content": "Content 2...",
-            "author": "Author 2"
+            "id": "news-00001",
+            "headline": "Launch of Afterwards on iOS",
+            "subHeadline": "It's new and fresh.",
+            "content": "It's official! Afterwards has launched on iOS in the App Store to download. Which of course you did because you are reading this.",
+            "author": "Afterwards",
+            "written": "January 15th, 2024"
         }
     ]
 }
