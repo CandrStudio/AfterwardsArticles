@@ -8,21 +8,10 @@
                     "subHeadline": "Making life easier",
                     "author": "Afterwards",
                     "content": "Welcome to Afterwards for iOS. ",
-                    "cite": ""
+                    "cite": " "
                 }
-            ]
-        },
-        {
-            "name": "Business",
-            "articles": [
-                {
-                    "headline": "Navigating the New Terrain: A Beginner's Guide to Launching a Successful Business",
-                    "subHeadline": "Essential Strategies and Insights for Aspiring Entrepreneurs",
-                    "content": "Starting a business can be an exhilarating yet daunting journey. It's a path filled with challenges, learning, and opportunities. For those embarking on this venture, understanding the basics of business planning, market research, and financial management is crucial. \n\nFirstly, a clear business plan is your roadmap. It should outline your business idea, target market, unique selling proposition, and long-term goals. Market research is equally important. Understanding your audience and competitors helps in crafting strategies that resonate with your market. \n\nFinancial management is another pillar of a successful business. Efficient budgeting, understanding cash flow, and preparing for unforeseen expenses are key to maintaining your business's health. \n\nRemember, patience and persistence are vital. Mistakes are learning opportunities. Seek advice from mentors and constantly refine your strategy. Embrace the journey of building your business, as each step teaches invaluable lessons for growth and success.",
-                    "cite": ""
-                }
-
             ]
         }
+        
     ]
 }
