@@ -1,1 +1,17 @@
-
+{
+    "folders": [
+        {
+            "name": "JAN24",
+            "articles": [
+                {
+                    "headline": "Launch of Afterwards",
+                    "subHeadline": "Let's get started",
+                    "author": "Afterwards",
+                    "content": "Welcome to Afterwards is officially launching on iOS",
+                    "cite": " "
+                }
+            ]
+        }
+        
+    ]
+}
