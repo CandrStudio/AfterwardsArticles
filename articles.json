@@ -1,17 +1,12 @@
 {
-    "articleFolder": [
+    "articles": [
         {
-            "name": "Getting Started",
-            "articles": [
-                {
-                    "headline": "Welcome To Afterwards",
-                    "subHeadline": "Making life easier",
-                    "author": "Afterwards",
-                    "content": "Welcome to Afterwards for iOS. ",
-                    "cite": " "
-                }
-            ]
+            "id": "article-00001",
+            "headline": "Article",
+            "subHeadline": "It's new and fresh.",
+            "content": "It's official! Afterwards has launched on iOS in the App Store to download. Which of course you did because you are reading this.",
+            "author": "Afterwards",
+            "written": "January 15th, 2024"
         }
-        
     ]
 }
