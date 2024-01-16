@@ -1,11 +1,9 @@
 {
     "newsFolders": [
         {
-            "id": "NEWSJAN24",
             "name": "JAN24",
             "news": [
                 {
-                    "id": "NEWSJAN24-01",
                     "headline": "Launch of Afterwards",
                     "subHeadline": "Let's get started",
                     "author": "Afterwards",
