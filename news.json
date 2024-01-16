@@ -1,17 +1,35 @@
 {
-    "newsFolder": [
+  "newsFolders": [
+    {
+      "id": "unique-identifier-1",
+      "name": "Health",
+      "news": [
         {
-            "name": "JAN24",
-            "news": [
-                {
-                    "headline": "Launch of Afterwards",
-                    "subHeadline": "Let's get started",
-                    "author": "Afterwards",
-                    "content": "Welcome to Afterwards is officially launching on iOS",
-                    "cite": " "
-                }
-            ]
+          "id": "unique-news-id-1",
+          "headline": "New Advances in Health Technology",
+          "subHeadline": "Innovations shaping the future",
+          "author": "Jane Doe",
+          "content": "The world of health technology has seen...",
+          "cite": "Source or Reference"
+        },
+        {
+          "id": "unique-news-id-2",
+          "headline": "Understanding Mental Health",
+          "subHeadline": "A deep dive into psychological well-being",
+          "author": "John Smith",
+          "content": "Mental health is an integral part of our lives...",
+          "cite": "Source or Reference"
         }
-        
-    ]
+        // ... more news items
+      ]
+    },
+    {
+      "id": "unique-identifier-2",
+      "name": "Technology",
+      "news": [
+        // ... news items for technology
+      ]
+    }
+    // ... more news folders
+  ]
 }
