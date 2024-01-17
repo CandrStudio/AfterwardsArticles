@@ -2,19 +2,19 @@
     "news": [
         {
             "id": "news-00002",
-            "headline": "Headline 1",
-            "subHeadline": "Subheadline 1",
-            "content": "Content 1...",
-            "author": "Author 1",
-            "written": "January 15th, 2024"
+            "headline": "Why I Built Afterwards",
+            "subHeadline": "Frustration and endless searching.",
+            "content": "In 2023 I started my first company, a solo-design studio but needed a way to manage my business. I search for different solutions from Quickbooks, HoneyBook, Wave Apps and many, many more. All having different solutions to part of my problem, never solving the entire issue. Causing me to use multiple products or to subscribe at thousands of dollars a year.\n\n I landed on using Google Appsheet and built a databases to house the different information I needed to support my business. At $60/year it wasn't a big investment and worked well enough for the first few months. Quickly I ran into issues with the mobile app and clunkiness of the product over all. \n\nAround the time I was just starting to learn app development, specifically SwiftUI which is the native iOS development language. Having just released my first app Breatheful, swiftly followed by Ideaful. I decided I would take a leap of faith and started development on Afterwards and three months later Afterwards is being released. \n\nAfterwards was designed and built specifically for me to solve my problems in one bundled solution. Similar to how I managed things through AppSheet but in a more organized and design centric way.\n\nThough it was built with myself in mind, with all my apps I develop, I am more than happy to share it with everyone else.",
+            "author": "Afterwards",
+            "written": "January 16th, 2024"
         },
         {
             "id": "news-00001",
             "headline": "Launch of Afterwards on iOS",
             "subHeadline": "It's new and fresh.",
-            "content": "It's official! Afterwards has launched on iOS in the App Store to download. Which of course you did because you are reading this.",
+            "content": "Introducing Afterwards, the new iOS app designed for personal use, freelancers, and small businesses, aiming to simplify financial and task management in an affordable, user-friendly package. Born from the developer's frustration with existing cluttered and restrictive apps, 'Afterwards' offers a comprehensive solution for revenue, expense, and subscription tracking, alongside features like revenue breakdown, task and goal tracking, CRM, notes, and inventory management.\n\nIts intuitive interface caters to both professional and casual users, ensuring a seamless experience for managing personal finances or business operations. Perfect for those who need an all-in-one tool without the complexity or high cost.\n\nAfterwards is now available on the iOS App Store, ready to revolutionize how you manage your daily tasks and finances.",
             "author": "Afterwards",
-            "written": "January 15th, 2024"
+            "written": "January 16th, 2024"
         }
     ]
 }
