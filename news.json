@@ -2,10 +2,10 @@
     "news": [
         {
             "id": "news-00003",
-            "icon": "cus-reciept",
+            "icon": "cus-exclamationmark-circle",
             "headline": "Data Migration Error",
             "subHeadline": "Release 1.0.3 Production Issue",
-            "content": "We released 1.0.03 this morning into production to find that from the development version to production there is a critical error. If you are a current user of Afterwards (1.0.1 or 1.0.2), the app will likely crash upon opening. This is a issue with the data migration. Your data is safe in your iCloud data. IF you face issues please reach out to support@oddomens.com for help.",
+            "content": "We released 1.0.3 this morning into production to find that from the development version to production there is a critical error with the data migration from 1.0.2 to 1.0.3 with it not being setup correctly. This being the cause we decided the best route was to create a fresh database, which means user data will be lost. Greatly apologize to the five users this effects.\n\nPlease reach out to support@oddomens.com for more information or support.",
             "author": "Afterwards",
             "written": "January 25th, 2024"
         },
