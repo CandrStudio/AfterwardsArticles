@@ -1,6 +1,15 @@
 {
     "news": [
         {
+            "id": "news-00006",
+            "icon": "cus-badge-check",
+            "headline": "Afterwards 1.0.4 Release",
+            "subHeadline": "A new release, new features",
+            "content": "We released 1.0.4 this after noon with a few bug fixes and a overhaul in the data. See the full version list in settings then the app version number.",
+            "author": "Afterwards",
+            "written": "January 25th, 2024"
+        },
+        {
             "id": "news-00005",
             "icon": "cus-exclamationmark-circle",
             "headline": "Data Migration Error",
