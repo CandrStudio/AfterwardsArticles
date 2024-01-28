@@ -1,6 +1,15 @@
 {
     "news": [
         {
+            "id": "news-00007",
+            "icon": "cus-badge-check",
+            "headline": "Afterwards 1.0.5 Release",
+            "subHeadline": "A new release, new features",
+            "content": "We released 1.0.5 this after noon with a few bug fixes including the Task bug and a other helpful fixes. The full version list in settings then the app version number.",
+            "author": "Afterwards",
+            "written": "January 27th, 2024"
+        },
+        {
             "id": "news-00006",
             "icon": "cus-badge-check",
             "headline": "Afterwards 1.0.4 Release",
