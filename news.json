@@ -1,6 +1,15 @@
 {
     "news": [
         {
+            "id": "news-00008",
+            "icon": "cus-badge-check",
+            "headline": "Afterwards 1.0.6 Release",
+            "subHeadline": "New Feature: Reportiing & bug fixes",
+            "content": "We released 1.0.6 this morning which includes a few bug fixes, a new festure , reporting and a update subscription setup. Please note when upgrading it will likely bring you to onboarding. Scroll to the end and restore purchase, prompting a sign in. The is the official Apple sign in, Odd Omens LLC doesnt see this. It will likely say it failed. Close the app and reopen and it should load in correctly.\n\nPlease reach out to support@oddomens.com for more information or support.",
+            "author": "Afterwards",
+            "written": "February 1st, 2024"
+        },
+        {
             "id": "news-00007",
             "icon": "cus-badge-check",
             "headline": "Afterwards 1.0.5 Release",
