@@ -1,6 +1,15 @@
 {
     "news": [
         {
+            "id": "news-00009",
+            "icon": "cus-reciept",
+            "headline": "Subscription No Longer",
+            "subHeadline": "Out with subscription in with one-time payment",
+            "content": "With the release of 1.0.7 pending Apples approval, Afterwards will be a one time payment app instead of a monthly subscription. The choice was made to make it more appealing to the user in the long term. Nothing from a development stand point will change.",
+            "author": "Afterwards",
+            "written": "February 8th, 2024"
+        },
+        {
             "id": "news-00008",
             "icon": "cus-badge-check",
             "headline": "Afterwards 1.0.6 Release",
