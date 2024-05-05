@@ -6,7 +6,7 @@
       "articles": [
         {
           "id": "banking-article-01",
-          "icon": "cus-bank",
+          "icon": "bank",
           "headline": "Easy Online Banking",
           "subHeadline": "It's has never been so easy",
           "content": "Whether you are using Afterwards for personal use, freelancer or managing a small business. Banking is important part of everyones life",
@@ -21,7 +21,7 @@
       "articles": [
         {
           "id": "business-article-01",
-          "icon": "cus-briefcase-alt-4",
+          "icon": "briefcase",
           "headline": "Starting an LLC: Comprehensive Tax Implications and Benefits",
           "subHeadline": "Your Guide to a Smart Business Structure",
           "content": "Forming a Limited Liability Company (LLC) offers flexibility and protection for business owners. The primary tax benefit of an LLC is pass-through taxation, where profits are taxed only once, at the individual owner level, avoiding corporate double taxation. However, LLCs also have the option to be taxed as an S-Corporation, which can be beneficial for reducing self-employment taxes.\n\nIt's important to understand the nuances of self-employment taxes and how an LLC can optimize tax obligations. Additionally, state-specific tax regulations for LLCs can vary, so it's crucial to be informed about your state's rules.\n\nAnnual reporting and compliance requirements are also important considerations for maintaining the benefits of an LLC structure. Understanding the implications of different management structures and operating agreements, especially in multi-member LLCs, is essential for effective tax planning and avoiding disputes.\n\nProper record-keeping and accounting are vital for documenting the separation between personal and business finances, which is critical for maintaining the liability protections of an LLC.",
@@ -30,7 +30,7 @@
         },
         {
           "id": "business-article-02",
-          "icon": "cus-briefcase-alt-4",
+          "icon": "briefcase",
           "headline": "Structuring an LLC: Comprehensive Tax Implications and Benefits",
           "subHeadline": "Your Guide to a Smart Business Structure",
           "content": "Forming a Limited Liability Company (LLC) offers flexibility and protection for business owners. The primary tax benefit of an LLC is pass-through taxation, where profits are taxed only once, at the individual owner level, avoiding corporate double taxation. However, LLCs also have the option to be taxed as an S-Corporation, which can be beneficial for reducing self-employment taxes.\n\nIt's important to understand the nuances of self-employment taxes and how an LLC can optimize tax obligations. Additionally, state-specific tax regulations for LLCs can vary, so it's crucial to be informed about your state's rules. Annual reporting and compliance requirements are also important considerations for maintaining the benefits of an LLC structure. Understanding the implications of different management structures and operating agreements, especially in multi-member LLCs, is essential for effective tax planning and avoiding disputes.\n\nProper record-keeping and accounting are vital for documenting the separation between personal and business finances, which is critical for maintaining the liability protections of an LLC.\n\nAfterwards and it's developers are not business experts. Always consult a professional.",
@@ -39,7 +39,7 @@
         },
         {
           "id": "business-article-03",
-          "icon": "cus-briefcase-alt-4",
+          "icon": "briefcase",
           "headline": "Get Your Employer Identification Number (EIN)",
           "subHeadline": "It's easy and free!",
           "content": "First what is a Employer Idetification Number also known as a EIN? Think of it as a Social Security Number (SSN) for business. This helps the IRS keep track of companys earnings and payments to employees.\n\nNow you are wondering do I actually need this? If you are the only one working in your business, no you don't need one but some bank require you get one. It can also protect your Social Security Number by providing a EIN to businesses rather than your SSN.\n\nFiling for a EIN is easy and free directly from the IRS. Simply Google search IRS EIN and it will be one of the first search. Make sure the website starts with irs.gov to make sure. From there you follow the step-by-step guide.\n\nAfterwards and it's developers are not business experts. Always consult a professional.",
@@ -48,7 +48,7 @@
         },
         {
           "id": "business-article-04",
-          "icon": "cus-briefcase-alt-4",
+          "icon": "briefcase",
           "headline": "Smart Expense Management for Small Businesses",
           "subHeadline": "Maximizing Deductions and Streamlining Costs",
           "content": "Effective expense management is key to the financial health of any small business. Identifying and deducting allowable business expenses can significantly reduce your taxable income.\n\nCommon deductible expenses include office supplies, business travel, employee salaries, and various forms of insurance. However, the IRS requires these expenses to be both 'ordinary and necessary' for your business operations. For instance, travel expenses must be for business purposes, and entertainment expenses, while sometimes deductible, have strict limitations. Small businesses can also benefit from Section 179, allowing immediate expensing of certain types of property instead of depreciating them over several years.\n\nHome office deductions are another area of interest for many small business owners, requiring the space to be used regularly and exclusively for business. It's also essential to maintain detailed records and receipts for all expenses, as this documentation is vital in case of an IRS audit. Staying updated with tax law changes, such as the Tax Cuts and Jobs Act, can reveal new opportunities for deductions and tax savings.\n\nRemember, while maximizing deductions is beneficial, it's crucial to adhere strictly to tax laws and regulations to avoid any legal issues.\n\nAfterwards and it's developers are not business experts. Always consult a professional.",
@@ -63,7 +63,7 @@
       "articles": [
         {
           "id": "retirement-article-01",
-          "icon": "cus-vault",
+          "icon": "vault",
           "headline": "Maximizing Your 401(k) for Retirement Savings",
           "subHeadline": "Smart Strategies for Future Financial Security",
           "content": "A 401(k) plan is not just a retirement savings tool; it's a crucial element of your financial planning. Contributing to a 401(k) offers immediate tax relief by reducing your taxable income.\n\nThe 2024 contribution limit is $23,000, with an additional $7,000 allowed for those over 50. Furthermore, many employers match a portion of your contributions, essentially offering free money towards your retirement. It's vital to understand the types of 401(k)s - traditional and Roth - each with unique tax implications. Traditional 401(k)s offer tax-deferred growth, meaning you'll pay taxes upon withdrawal, while Roth 401(k)s are funded with after-tax dollars, offering tax-free growth and withdrawals.\n\nStrategic planning around your 401(k) can significantly impact your retirement readiness, particularly when it comes to deciding when and how to withdraw funds to minimize tax liabilities.\n\nRemember, withdrawing before age 59½ typically incurs a 10% penalty, so plan your retirement distributions carefully.\n\nAfterwards and it's developers are not tax experts. Always consult a professional.",
@@ -78,7 +78,7 @@
       "articles": [
         {
           "id": "tax-article-01",
-          "icon": "cus-money-check-dollar-pen",
+          "icon": "money-bill",
           "headline": "Navigating Tax Returns: A Comprehensive Guide",
           "subHeadline": "Making 2024 Tax Season Less Daunting",
           "content": "Filing tax returns is a fundamental responsibility for individuals and businesses alike. The process involves reporting your income, deductions, and credits to calculate your tax liability.\n\nUnderstanding the nuances of tax filing starts with knowing your filing status, which affects your standard deduction and tax rates. Common statuses include Single, Married Filing Jointly, and Head of Household.\n\nDeductions lower your taxable income, with options for itemized or standard deductions. Itemized deductions include mortgage interest, state taxes, and charitable contributions, while the standard deduction for 2024 standard deduction is $14,600 for single filers and those married filing separately, $29,200 for joint filers, and $21,900 for heads of household.\n\nTax credits, such as the Earned Income Tax Credit or Child Tax Credit, are powerful tools as they directly reduce your tax bill dollar for dollar.\n\nReporting accurate income, from employment, investments, or businesses, is crucial. For those with more complex situations, such as self-employment or multiple income sources, understanding additional forms and schedules is key. Always keep abreast of the latest tax law changes to maximize your return and maintain compliance.\n\nRemember, timely filing and accurate reporting are essential to avoid penalties and audits.\n\nAfterwards and it's developers are not tax experts. Always consult a professional.",
